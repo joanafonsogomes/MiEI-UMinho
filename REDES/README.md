@@ -1,6 +1,6 @@
 # Redes
 
-<sub>Trabalhos práticos realizados no âmbito da UC de Redes de Computadores. 2019/2020.</sub>
+Trabalhos práticos realizados no âmbito da UC de Redes de Computadores. 2019/2020.
 
 <sub> **TP1**: *Smart Cities*: Security and Privacy Challenges </sub> \
 <sub> **TP2**: Protocolo IPv4 </sub> \
