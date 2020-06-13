@@ -9,4 +9,4 @@ Exercícios realizados no âmbito da UC de Computação Gráfica, 2019/2020.
 <sub> **Guião 9**: Lighting: Cylinder </sub> \
 <sub> **Guião 10**: Terrain: Lighting and Texturing </sub> \
 <sub> **Guião 11**: Texturing a Cylinder </sub> \
-<sub> **Guião 12**: Picking and Rendering Text </sub> \
+<sub> **Guião 12**: Picking and Rendering Text </sub>
