@@ -1,4 +1,4 @@
-# miei-exercises
+# miei
 Exercícios e outros trabalhos realizados no curso de Engenharia Informática.
 
 - **Redes**: Redes de Computadores \
