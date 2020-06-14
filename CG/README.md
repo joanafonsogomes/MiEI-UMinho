@@ -1,6 +1,6 @@
 # CG
 
-Exercícios realizados no âmbito da UC de Computação Gráfica, 2019/2020.
+Exercícios realizados no âmbito da UC de **Computação Gráfica**, 2019/2020.
 
 <sub> **Guião 5**: Build a 3D scenario </sub> \
 <sub> **Guião 6**: Terrain </sub> \
