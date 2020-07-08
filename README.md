@@ -1,5 +1,5 @@
 # miei
-Outros trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
+Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **Redes**: Redes de Computadores \
 <sub>Trabalhos práticos.</sub>
