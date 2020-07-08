@@ -8,5 +8,5 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 <sub>Trabalhos práticos.</sub>
 
 - **CG**: Computação Gráfica \
-<sub>Guiões realizados.</sub>
+<sub>Guiões realizados.</sub>  
 <sub>Fichas e resumos.</sub>
