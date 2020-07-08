@@ -9,4 +9,4 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **CG**: Computação Gráfica \
 <sub>Guiões realizados</sub>  
-<sub>Fichas e resumos teóricos</sub>
+<sub>Resolução de fichas e resumos teóricos</sub>
