@@ -1,7 +1,7 @@
 # MiEI
 Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
-**3rd Year 1st Semester**
+**3ºAno 1º Semestre**
 - **MDIO**: Modelos Determinísticos de Investigação Operacional \
 <sub>Trabalhos práticos</sub>
 
@@ -11,7 +11,7 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 - **SD**: Sistemas Distribuídos \
 <sub>Guiões práticos </sub>  
 
-**3rd Year 2nd Semester**
+**3ºAno 2º Semestre**
 - **CG**: Computação Gráfica \
 <sub>Guiões práticos</sub>  
 <sub>Resolução de fichas e resumos teóricos</sub>
