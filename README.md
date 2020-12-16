@@ -34,7 +34,7 @@ https://github.com/joanafonsogomes/SO
 
 **3º Ano 2º Semestre**
 - **CG**: Computação Gráfica \
-:pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG)
+<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
 <sub>Guiões práticos</sub>  
 <sub>Resolução de fichas e resumos teóricos</sub>
 
