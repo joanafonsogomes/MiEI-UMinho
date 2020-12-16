@@ -13,7 +13,9 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **SO**: Sistemas Operativos \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
+
 </br>
+
 **3º Ano 1º Semestre**
 - **BD**: Bases de Dados \
 <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
