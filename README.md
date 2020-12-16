@@ -29,7 +29,9 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **SD**: Sistemas Distribuídos \
 <sub>Guiões práticos </sub>  
+
 </br>
+
 **3º Ano 2º Semestre**
 - **CG**: Computação Gráfica \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub> \
