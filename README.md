@@ -13,7 +13,7 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **SO**: Sistemas Operativos \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
-
+\
 **3º Ano 1º Semestre**
 - **BD**: Bases de Dados \
 <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
@@ -29,7 +29,7 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **SD**: Sistemas Distribuídos \
 <sub>Guiões práticos </sub>  
-
+\
 **3º Ano 2º Semestre**
 - **CG**: Computação Gráfica \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub> \
