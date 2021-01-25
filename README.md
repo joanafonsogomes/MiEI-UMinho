@@ -23,7 +23,7 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
 
 - **DSS**: Desenvolvimento de Sistemas de Software \
-<sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/DSS) </sub>
+<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS) </sub>
 
 - **MDIO**: Modelos Determinísticos de Investigação Operacional \
 <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub>  
@@ -49,4 +49,4 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 **4º Ano 1º Semestre**
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações \
-<sub>Questões-Aula</sub>
+<sub> [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA) </sub>
