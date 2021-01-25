@@ -26,13 +26,13 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/DSS) </sub>
 
 - **MDIO**: Modelos Determinísticos de Investigação Operacional \
-<sub> Trabalhos práticos</sub>
+<sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub>  
 
 - **Redes**: Redes de Computadores \
-<sub>Trabalhos práticos</sub>
+<sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES) </sub>  
 
 - **SD**: Sistemas Distribuídos \
-<sub>Guiões práticos </sub>  
+<sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
 
 </br>
 
