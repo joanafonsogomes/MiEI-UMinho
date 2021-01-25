@@ -44,3 +44,9 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 - **LI4**: Laboratórios de Informática IV \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
+
+</br>
+
+**4º Ano 1º Semestre**
+- **IATA**: Inteligência Ambiente: Tecnologias e Aplicações \
+<sub> :pushpin: [Questões-Aula](https://github.com/joanafonsogomes/LI4) </sub>
