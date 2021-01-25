@@ -1,7 +1,7 @@
 # MiEI
-Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
+Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia Informática.
 
-</br>
+## **Licenciatura**
 
 **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas \
