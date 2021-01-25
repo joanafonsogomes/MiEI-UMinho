@@ -39,8 +39,8 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 **3º Ano 2º Semestre**
 - **CG**: Computação Gráfica \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub> \
-<sub>Guiões práticos</sub>  
-<sub>Resolução de fichas e resumos teóricos</sub>
+<sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>  
+<sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
 
 - **LI4**: Laboratórios de Informática IV \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
