@@ -49,4 +49,4 @@ Trabalhos, exercícios e resumos realizados no curso de Engenharia Informática.
 
 **4º Ano 1º Semestre**
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações \
-<sub> :pushpin: [Questões-Aula](https://github.com/joanafonsogomes/LI4) </sub>
+<sub>Questões-Aula</sub>
