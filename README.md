@@ -1,6 +1,6 @@
 # MiEI
 Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia Informática.
-
+<br/>
 ## **Licenciatura**
 
 **2º Ano 2º Semestre**
@@ -44,7 +44,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **LI4**: Laboratórios de Informática IV \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
-
+<br/>
 ## **Mestrado**
 
 **4º Ano 1º Semestre**
