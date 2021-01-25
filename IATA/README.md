@@ -1,6 +1,6 @@
 # IATA: Questões-Aula
 
-Exercícios realizados no âmbito da UC complementar **Inteligência Ambiente: Tecnologias e Aplicações** <br/> 2020/2021
+Exercícios realizados no âmbito da UC complementar **Inteligência Ambiente: Tecnologias e Aplicações** 2020/2021 <br/> 
 <br/>
 - [Questão-Aula 1](https://github.com/joanafonsogomes/miei/tree/master/IATA/QA1) : Rule-based Automotive Control System
 
