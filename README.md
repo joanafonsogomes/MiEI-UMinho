@@ -1,7 +1,6 @@
 # MiEI
 Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia Informática.
 
-<br/>
 
 ## **Licenciatura**
 
