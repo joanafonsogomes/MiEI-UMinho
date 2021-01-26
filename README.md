@@ -25,9 +25,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   
 - **SO**: Sistemas Operativos
    > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO)  
-
-&nbsp;
-
+- - -
 ### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
   > :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL)
