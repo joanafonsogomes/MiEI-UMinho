@@ -1,7 +1,12 @@
 # MiEI
+<p align="center">
 <img src="https://admin.googleusercontent.com/logo-scs-key2555945" alt="drawing" width="200"/>
+</p>
+<p align="center">
 Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia Informática.
+</p>
 
+</br>
 
 ## **Licenciatura**
 
