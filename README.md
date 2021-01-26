@@ -6,16 +6,16 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ### **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas
-  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP)
 
 - **LI3**: Laboratórios de Informática III
-  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3) </sub>
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3)
 
 - **POO**: Programação Orientada a Objetos
-  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO) </sub>
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO)
   
 - **SO**: Sistemas Operativos
-   > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
+   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO)
   
 </br>
 
