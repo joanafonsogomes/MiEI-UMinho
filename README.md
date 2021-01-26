@@ -22,7 +22,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **SO**: Sistemas Operativos
    - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
-
+  
+</br>
 
 ### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
@@ -47,10 +48,10 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **SD**: Sistemas Distribuídos
   - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
+    
+</br>
 
 ### **3º Ano 2º Semestre**
-
-<br/>
 
 - **CG**: Computação Gráfica
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
