@@ -58,5 +58,5 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ### **4º Ano 1º Semestre**
 
-  - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações (Complementary Course Unit)
+  - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações (UC Complementar)
     > [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
