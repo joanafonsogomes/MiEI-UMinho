@@ -38,6 +38,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ### **3º Ano 2º Semestre**
 
+<br/>
+
 - **CG**: Computação Gráfica
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
   - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
