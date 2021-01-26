@@ -4,7 +4,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ## **Licenciatura**
 
-**2º Ano 2º Semestre**
+### **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
 
@@ -17,9 +17,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 - **SO**: Sistemas Operativos
    - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
 
-</br>
 
-**3º Ano 1º Semestre**
+### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
   - <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
 
@@ -37,7 +36,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 </br>
 
-**3º Ano 2º Semestre**
+### **3º Ano 2º Semestre**
+
 - **CG**: Computação Gráfica
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
   - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
