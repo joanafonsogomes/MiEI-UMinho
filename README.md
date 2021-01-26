@@ -7,12 +7,18 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 ### **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
+  
+</br>
 
 - **LI3**: Laboratórios de Informática III
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3) </sub>
+  
+</br>
 
 - **POO**: Programação Orientada a Objetos
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO) </sub>
+  
+</br>
 
 - **SO**: Sistemas Operativos
    - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
@@ -21,20 +27,26 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 ### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
   - <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
+  
+</br>
 
 - **DSS**: Desenvolvimento de Sistemas de Software
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS) </sub>
+  
+</br>
 
 - **MDIO**: Modelos Determinísticos de Investigação Operacional
-  - <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub>  
+  - <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub> 
+  
+</br>
 
 - **Redes**: Redes de Computadores
   - <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES) </sub>  
+  
+</br>
 
 - **SD**: Sistemas Distribuídos
   - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
-
-</br>
 
 ### **3º Ano 2º Semestre**
 
