@@ -27,17 +27,17 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
-  - <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
+  > <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
   
 </br>
 
 - **DSS**: Desenvolvimento de Sistemas de Software
-  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS) </sub>
+  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS) </sub>
   
 </br>
 
 - **MDIO**: Modelos Determinísticos de Investigação Operacional
-  - <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub> 
+  > <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub> 
   
 </br>
 
