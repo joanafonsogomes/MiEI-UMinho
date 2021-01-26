@@ -6,7 +6,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ### **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas
-  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
+  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
   
 </br>
 
