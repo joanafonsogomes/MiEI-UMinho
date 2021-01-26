@@ -24,10 +24,10 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO)
   
 - **SO**: Sistemas Operativos
-   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) \
+   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO)
    
 &nbsp; \
-&nbsp; 
+
 ### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
   > :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL)
@@ -42,10 +42,10 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES)
 
 - **SD**: Sistemas Distribuídos
-  > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) \
-  
+  > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD)
+   
 &nbsp; \
-&nbsp;  
+
 ### **3º Ano 2º Semestre**
 
 - **CG**: Computação Gráfica
