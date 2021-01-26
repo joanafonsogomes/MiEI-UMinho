@@ -4,51 +4,51 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 ## **Licenciatura**
 
 **2º Ano 2º Semestre**
-- **CP**: Cálculo de Programas \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
+#### **CP**: Cálculo de Programas
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP)
 
-- **LI3**: Laboratórios de Informática III \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3) </sub>
+#### **LI3**: Laboratórios de Informática III
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3)
 
-- **POO**: Programação Orientada a Objetos \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO) </sub>
+#### **POO**: Programação Orientada a Objetos
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO)
 
-- **SO**: Sistemas Operativos \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
+#### **SO**: Sistemas Operativos
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO)
 
 </br>
 
 **3º Ano 1º Semestre**
-- **BD**: Bases de Dados \
-<sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
+#### **BD**: Bases de Dados
+- :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL)
 
-- **DSS**: Desenvolvimento de Sistemas de Software \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS) </sub>
+#### **DSS**: Desenvolvimento de Sistemas de Software
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS)
 
-- **MDIO**: Modelos Determinísticos de Investigação Operacional \
-<sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub>  
+#### **MDIO**: Modelos Determinísticos de Investigação Operacional
+- [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO)  
 
-- **Redes**: Redes de Computadores \
-<sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES) </sub>  
+#### **Redes**: Redes de Computadores
+- [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES)
 
-- **SD**: Sistemas Distribuídos \
-<sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
+#### **SD**: Sistemas Distribuídos
+- [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) 
 
 </br>
 
 **3º Ano 2º Semestre**
-- **CG**: Computação Gráfica \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub> \
-<sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>  
-<sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
+#### **CG**: Computação Gráfica
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG)
+- [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes)
+- [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos)
 
-- **LI4**: Laboratórios de Informática IV \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
+#### **LI4**: Laboratórios de Informática IV
+- :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4)
 
 <br/>
 
 ## **Mestrado**
 
 **4º Ano 1º Semestre**
-- **IATA**: Inteligência Ambiente: Tecnologias e Aplicações \
-<sub> [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA) </sub>
+#### **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
+- [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
