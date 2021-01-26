@@ -21,31 +21,31 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 ### **3º Ano 1º Semestre**
 - **BD**: Bases de Dados
-  > <sub> :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL) </sub>
+  > :pushpin: [Trabalho prático SQL](https://github.com/joanafonsogomes/BD_SQL)
 
 - **DSS**: Desenvolvimento de Sistemas de Software
-  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS) </sub>
+  > pushpin: [Trabalho prático](https://github.com/joanafonsogomes/DSS)
 
 - **MDIO**: Modelos Determinísticos de Investigação Operacional
-  > <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) </sub> 
+  > [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/MDIO) 
 
 - **Redes**: Redes de Computadores
-  > <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES) </sub>  
+  > [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES)
 
 - **SD**: Sistemas Distribuídos
-  > <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
+  > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) 
     
 </br>
 
 ### **3º Ano 2º Semestre**
 
 - **CG**: Computação Gráfica
-  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub> \
-  > <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub> \
-  > <sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) \
+  > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) \
+  > [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos)
   
 - **LI4**: Laboratórios de Informática IV
-  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4)
 
 <br/>
 
@@ -53,4 +53,4 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 **4º Ano 1º Semestre**
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
-  > <sub> [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA) </sub>
+  > [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
