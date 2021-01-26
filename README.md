@@ -43,8 +43,6 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
   - <sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
   
-<br/>
-
 - **LI4**: Laboratórios de Informática IV
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
 
