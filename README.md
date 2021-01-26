@@ -11,17 +11,17 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 </br>
 
 - **LI3**: Laboratórios de Informática III
-  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3) </sub>
+  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3) </sub>
   
 </br>
 
 - **POO**: Programação Orientada a Objetos
-  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO) </sub>
+  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO) </sub>
   
 </br>
 
 - **SO**: Sistemas Operativos
-   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
+   > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO) </sub>
   
 </br>
 
@@ -42,26 +42,26 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 </br>
 
 - **Redes**: Redes de Computadores
-  - <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES) </sub>  
+  > <sub> [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES) </sub>  
   
 </br>
 
 - **SD**: Sistemas Distribuídos
-  - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
+  > <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) </sub>  
     
 </br>
 
 ### **3º Ano 2º Semestre**
 
 - **CG**: Computação Gráfica
-  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
-  - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
-  - <sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
+  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
+  > <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
+  > <sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
   
   <br/>
   
 - **LI4**: Laboratórios de Informática IV
-  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
+  > <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
 
 <br/>
 
@@ -69,4 +69,4 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 **4º Ano 1º Semestre**
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
-  - <sub> [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA) </sub>
+  > <sub> [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA) </sub>
