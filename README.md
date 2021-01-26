@@ -24,8 +24,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/POO)
   
 - **SO**: Sistemas Operativos
-   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO)
-   
+   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SO)  
+
 &nbsp;
 
 ### **3º Ano 1º Semestre**
