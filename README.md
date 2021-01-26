@@ -42,8 +42,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
   - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
   - <sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
-
-- **LI4**: Laboratórios de Informática IV \
+<br/>
+- **LI4**: Laboratórios de Informática IV
   - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
 
 <br/>
@@ -51,5 +51,5 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 ## **Mestrado**
 
 **4º Ano 1º Semestre**
-- **IATA**: Inteligência Ambiente: Tecnologias e Aplicações \
+- **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
   - <sub> [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA) </sub>
