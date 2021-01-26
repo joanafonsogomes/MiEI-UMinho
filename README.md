@@ -41,8 +41,6 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **SD**: Sistemas Distribuídos
   > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) 
-    
-</br>
 
 ### **3º Ano 2º Semestre**
 
