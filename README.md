@@ -6,7 +6,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
+  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP) </sub>
 
 - **LI3**: Laboratórios de Informática III \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI3) </sub>
@@ -38,10 +38,10 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 </br>
 
 **3º Ano 2º Semestre**
-- **CG**: Computação Gráfica \
-<sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub> \
-<sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>  
-<sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
+- **CG**: Computação Gráfica
+  - <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CG) </sub>
+  - <sub> [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/CG/Guioes) </sub>
+  - <sub> [Resolução de fichas e resumos teóricos](https://github.com/joanafonsogomes/miei/tree/master/CG/Fichas%26Resumos) </sub>
 
 - **LI4**: Laboratórios de Informática IV \
 <sub> :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4) </sub>
