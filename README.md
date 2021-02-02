@@ -59,9 +59,11 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 ### **4º Ano 1º Semestre**
 #### Perfil de Gestão e Virtualização de Redes (GVR)
  
-- **SR**: Segurança em redes
+- **SR**: Segurança em Redes
+
   > :pushpin: [Trabalhos práticos](https://github.com/joanafonsogomes/SR)
   
 #### UCs Complementares
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações (UC Complementar)
+
   > [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
