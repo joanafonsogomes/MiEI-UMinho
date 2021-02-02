@@ -64,6 +64,6 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalhos práticos](https://github.com/joanafonsogomes/SR)
   
 #### UCs Complementares
-- **IATA**: Inteligência Ambiente: Tecnologias e Aplicações (UC Complementar)
+- **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
 
   > [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
