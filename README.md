@@ -62,6 +62,10 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 - **SR**: Segurança em Redes
 
   > :pushpin: [Trabalhos práticos](https://github.com/joanafonsogomes/SR)
+
+- **GR**: Gestão de Redes
+
+  > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR)
   
 #### UCs Complementares
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
