@@ -65,7 +65,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **GR**: Gestão de Redes
 
-  > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR)
+  > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
   
 #### UCs Complementares
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
