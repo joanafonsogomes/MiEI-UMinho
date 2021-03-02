@@ -65,7 +65,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **GR**: Gestão de Redes
   
-  > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR) \
+  > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
 
 #### Perfil de Computação Gráfica (CG)
  
