@@ -67,7 +67,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 #### Perfil de Computação Gráfica (CG)
  
-- **VI**: Visualização e Iluminação
+- **VI1**: Visualização e Iluminação I
 
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/VI-Group) \
   > [Essay individual](https://github.com/joanafonsogomes/VI-Group)
