@@ -65,6 +65,15 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **GR**: Gestão de Redes
 
+#### Perfil de Computação Gráfica (CG)
+ 
+- **VI**: Visualização e Iluminação
+
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/VI-Group)
+  > [Essay individual](https://github.com/joanafonsogomes/VI-Group)
+
+- **VC**: Visão por Computador
+
   > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
   
 #### UCs Complementares
