@@ -69,7 +69,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
  
 - **VI**: Visualização e Iluminação
 
-  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/VI-Group)
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/VI-Group) \
   > [Essay individual](https://github.com/joanafonsogomes/VI-Group)
 
 - **VC**: Visão por Computador
