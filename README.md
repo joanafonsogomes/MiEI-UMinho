@@ -74,7 +74,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **VC**: Visão por Computador
 
-  > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
+  > :pushpin: [Tutorial 1](https://github.com/joanafonsogomes/VC-Tutorial1) \
+  > :pushpin: [Tutorial 2](https://github.com/joanafonsogomes/VC-Tutorial2)
   
 #### UCs Complementares
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
