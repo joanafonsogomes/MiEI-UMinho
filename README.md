@@ -52,6 +52,9 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 - **LI4**: Laboratórios de Informática IV
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4)
 
+- **SRCR**: Sistemas de Representação de Conhecimento e Raciocínio
+  > :pushpin: [Trabalho Individual](https://github.com/joanafonsogomes/SRCR-individual)
+
 <br/>
 
 ## **Mestrado**
@@ -81,5 +84,14 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   
 #### UCs Complementares
 - **IATA**: Inteligência Ambiente: Tecnologias e Aplicações
-
+  
+  > :pushpin: [Trabalho 1](https://github.com/joanafonsogomes/Ambient-Intelligence-TP1) \
+  > :pushpin: [Trabalho 2](https://github.com/joanafonsogomes/Ambient-Intelligence_Angie-Chatbot) \
   > [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
+
+### **4º Ano 2º Semestre**
+#### Perfil de Gestão e Virtualização de Redes (GVR)
+ 
+- **VR**: Virtualização de Redes 
+
+  > :pushpin: [TP2](https://github.com/joanafonsogomes/VR-TP2)
