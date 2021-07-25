@@ -53,7 +53,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4)
 
 - **SRCR**: Sistemas de Representação de Conhecimento e Raciocínio
-  > :pushpin: [Trabalhos de Grupo](https://github.com/joanafonsogomes/SRCR)
+  > :pushpin: [Trabalhos de Grupo](https://github.com/joanafonsogomes/SRCR) \
   > :pushpin: [Trabalho Individual](https://github.com/joanafonsogomes/SRCR-individual)
 
 <br/>
