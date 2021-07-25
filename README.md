@@ -53,6 +53,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/LI4)
 
 - **SRCR**: Sistemas de Representação de Conhecimento e Raciocínio
+  > :pushpin: [Trabalhos de Grupo](https://github.com/joanafonsogomes/SRCR)
   > :pushpin: [Trabalho Individual](https://github.com/joanafonsogomes/SRCR-individual)
 
 <br/>
@@ -68,6 +69,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **GR**: Gestão de Redes
   
+  > [TP2](https://github.com/joanafonsogomes/GR-TP2)
   > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
 
 #### Perfil de Computação Gráfica (CG)
