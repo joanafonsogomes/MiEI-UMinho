@@ -40,7 +40,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > [Trabalhos práticos](https://github.com/joanafonsogomes/miei/tree/master/REDES)
 
 - **SD**: Sistemas Distribuídos
-  > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD)
+  > [Guiões práticos](https://github.com/joanafonsogomes/miei/tree/master/SD) \
+  > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/SD)
 
 ### **3º Ano 2º Semestre**
 
@@ -69,7 +70,8 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 
 - **GR**: Gestão de Redes
   
-  > [TP2](https://github.com/joanafonsogomes/GR-TP2)
+  > [TP2](https://github.com/joanafonsogomes/GR-TP2) \
+  > [TP3](https://github.com/joanafonsogomes/GR-TP3) \
   > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
 
 #### Perfil de Computação Gráfica (CG)
