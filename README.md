@@ -69,9 +69,9 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalhos práticos](https://github.com/joanafonsogomes/SR)
 
 - **GR**: Gestão de Redes
-  
-  > [TP2](https://github.com/joanafonsogomes/GR-TP2) \
-  > [TP3](https://github.com/joanafonsogomes/GR-TP3) \
+   
+  > :pushpin: [TP2](https://github.com/joanafonsogomes/GR-TP2) \
+  > :pushpin: [TP3](https://github.com/joanafonsogomes/GR-TP3) \
   > [Teste](https://github.com/joanafonsogomes/miei/tree/master/GR/Teste-GR)
 
 #### Perfil de Computação Gráfica (CG)
