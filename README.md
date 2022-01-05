@@ -93,7 +93,7 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalho 2](https://github.com/joanafonsogomes/Ambient-Intelligence_Angie-Chatbot) \
   > [Questões-Aula](https://github.com/joanafonsogomes/miei/tree/master/IATA)
 
-- **CParalela**:Computação Paralela
+- **CParalela**: Computação Paralela
 
   > [Relatório OpenMP](https://github.com/joanafonsogomes/miei/tree/master/CParalela)
 
