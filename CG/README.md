@@ -1,3 +1,3 @@
 # CG
 
-**Computação Gráfica**, 2019/2020
+### Computação Gráfica, 2019/2020
