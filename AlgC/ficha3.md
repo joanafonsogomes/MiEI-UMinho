@@ -1,4 +1,4 @@
-#  Ficha 3 - ESTRUTURAS DE DADOS
+#  Ficha 3 - Estruturas de Dados
 
 ## MIN-HEAPS
 Uma min-heap é uma árvore binária em cada nodo é menor ou igual a todos os seus sucessores.
