@@ -123,3 +123,36 @@ int rem (PriorityQueue *q, int *rem){
 ```
 
 <img src="https://github.com/joanafonsogomes/miei/blob/master/AlgC/images/ex4.jpeg" alt="ex4" width="400"/>
+
+##### (5) HEAPIFY (Obter uma permutação do array que seja uma min-heap)
+
+* **Top-down** - Assumindo que as primeiras p posições do array constituem uma min-heap (de tamanho p) efectuar a invocação bubbleUp (p, v, N) de forma a obtermos uma min-heap de tamanho p+1
+
+```c
+void heapify (int v[], int N){
+    for(int i=0; i<N; i++){
+        bubbleUp(i,v);
+    }
+}
+```
+
+* **Bottom-up** - Para cada nodo da arvore, desde o mais profundo até à raiz, aplicar a função bubbleDown. Note-se que a invocação para as folhas é desnecessária, uma vez que não têm sucessores.
+
+```c
+void heapify (int v[], int N){
+    for(int i = N-1; i >= 0; i--){
+        bubbleDown(i,v,N);
+    }
+}
+```
+
+##### (6) Usando a bubbleDown, transforma a min-heap h num array ordenado por ordem decrescente.
+
+```c
+void ordenaHeap (int h[], int N){
+    for(int i = 0; i >= 0; i--){
+        swap(h,0,N-i-1);
+        bubbleDown(i,h,N-i-1);
+    }
+}
+```
