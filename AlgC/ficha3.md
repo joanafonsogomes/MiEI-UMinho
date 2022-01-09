@@ -181,3 +181,77 @@ unsigned hash(char *str){
 ```
 
 ##### (1) Inicializa um multi-conjunto a vazio.
+```c
+void initEmpty (THash t){
+    for(int i = 0; i < Size; i++){
+        t[i] = NULL;
+    }
+}
+```
+
+##### (2) Regista mais uma ocorrência de um elemento a um multi-conjunto.
+```c
+
+/* Aux */
+Nodo* initNodo(char *s){
+    Nodo* n = malloc(sizeof(Nodo));
+    n->chave = s;
+    n-> ocorr = 1;
+    n->prox = NULL;
+    return n;
+}
+
+Nodo* addNodo(Nodo* n, char *s){
+    if(!n) initNodo(s);
+    else if (!strcmp(n->chave,s)){
+        n->ocorr++;
+    }
+    else{
+        n->prox = addNodo(n->prox,s);
+    }
+}
+
+Nodo* rmvNodo(Nodo* n, char *s){
+    if(!n) return NULL;
+    else if (!strcmp(n->chave,s)){
+        n->ocorr--;
+    }
+    else{
+        n->prox = rmvNodo(n->prox,s)
+    }
+}
+
+void add (char *s, THash t){
+    int n = hash(s);
+    int index = n / Size;
+    t[index] = addNodo((Nodo*) t[index],s);
+}
+```
+
+##### (3) Calcula a multiplicidade de um elemento num multi-conjunto.
+
+```c
+int lookup (char *s, THash t){
+    int n = hash(s);
+    int index = n%Size;
+    Nodo* n = t[index];
+    while(n != NULL){
+        if(!strcmp((n->chave),s)) return n->ocorr;
+        else n = n->prox;
+    }
+    return 0;
+}
+```
+
+##### (4) Remove uma ocorrência de um elemento num multi-conjunto.
+
+```c
+int remove (char *s, THash t){
+    int n = hash(s);
+    int index = n%Size;
+    t[index] = NULL;
+    n->ocorr--;
+}
+```
+
+Not sure?
