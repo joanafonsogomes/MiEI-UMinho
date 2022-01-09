@@ -120,3 +120,5 @@ int rem (PriorityQueue *q, int *rem){
     return 0;
 }
 ```
+
+![alt text](https://github.com/joanafonsogomes/miei/blob/master/AlgC/images/ex4.jpeg)
