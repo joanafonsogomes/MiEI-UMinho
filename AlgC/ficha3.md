@@ -121,4 +121,4 @@ int rem (PriorityQueue *q, int *rem){
 }
 ```
 
-![alt text](https://github.com/joanafonsogomes/miei/blob/master/AlgC/images/ex4.jpeg)
+<img src="https://github.com/joanafonsogomes/miei/blob/master/AlgC/images/ex4.jpeg" alt="ex4" width="400"/>
