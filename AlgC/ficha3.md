@@ -255,3 +255,65 @@ int remove (char *s, THash t){
 ```
 
 Not sure?
+
+### Open Addressing
+
+```c
+#define Size 10
+#define Free 0
+#define Used 1
+#define Del 2
+typedef struct bucket {
+    int status; // Free | Used | Del
+    char *chave; int ocorr;
+} THash [Size];
+```
+##### (1) Calcula o índice de t onde s está (ou devia estar) armazenada
+
+```c
+int where (char *s, THash t){
+    unsigned n = hash(s);
+    return n%Size;
+}
+```
+
+##### (2)
+##### (a) Inicializa um multi-conjunto a vazio.
+
+```c
+void initEmpty (THash t){
+    for(int i=0; i<Size; i++){
+        t[i].status = Free;
+        t[i].chave = NULL;
+        t[i].ocorr = 0;
+    }
+}
+```
+
+##### (c) Calcula a multiplicidade de um elemento num multi-conjunto.
+
+```c
+int lookup (char *s, THash t){
+    int index = where(s);
+    if(t[index].chave && !strcmp((t[i].chave),s)){
+        return t[i].ocorr;
+    }
+    else return 0;
+}
+```
+
+##### (b) Regista mais uma ocorrência de um elemento a um multi-conjunto.
+
+```c
+void add (char *s, THash t){
+    int index = where(s);
+    if(lookup(s,t))[
+        t[index].ocorr++;
+    ]
+    else if(t[index].status == Free){
+        t[index].status = Used;
+        t[index].ocorr = 1;
+        t[index].chave = s;
+    }
+}
+```
