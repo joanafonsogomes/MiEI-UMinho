@@ -14,6 +14,10 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
 ## **Licenciatura**
 
 ### **2º Ano 2º Semestre**
+- **AlgC**: Algoritmos e Complexidade
+  > [Exercícios](https://github.com/joanafonsogomes/miei/tree/master/AlgC)
+
+### **2º Ano 2º Semestre**
 - **CP**: Cálculo de Programas
   > :pushpin: [Trabalho prático](https://github.com/joanafonsogomes/CP)
 
