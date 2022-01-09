@@ -317,3 +317,14 @@ void add (char *s, THash t){
     }
 }
 ```
+##### (3) Reconstrói a tabela t de forma a não haver chaves apagadas (status==Del).
+
+```c
+int garb_collection (THash t){
+    for(int i=0; i<Size; i++){
+        if(t[i].status==Del){
+            c = t[i].chave;
+            remove(c,t);
+        }
+    }
+}
