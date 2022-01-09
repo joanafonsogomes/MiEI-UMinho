@@ -156,3 +156,28 @@ void ordenaHeap (int h[], int N){
     }
 }
 ```
+
+## HASH TABLES
+Usar uma tabela de Hash para implementar multi-conjuntos de strings.
+
+```c
+unsigned hash(char *str){
+    unsigned hash = 5381;
+    int c;
+    while (c = *str++)
+    hash = ((hash << 5) + hash) + c; /* hash * 33 + c */
+    return hash;
+}
+```
+
+### Chaining
+
+```c
+#define Size ...
+    typedef struct nodo {
+    char *chave; int ocorr;
+    struct nodo *prox;
+} Nodo, *THash [Size];
+```
+
+##### (1) Inicializa um multi-conjunto a vazio.
