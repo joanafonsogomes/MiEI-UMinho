@@ -114,9 +114,10 @@ int add (int x, PriorityQueue *q){
 ```c
 int rem (PriorityQueue *q, int *rem){
     if(isEmpty(q)) return 1;
-    *rem = q->valores[tamanho-1]
-    q->valores[tamanho-1] = Null;
+    *rem = q->valores[0];
+    q->valores[0] = q->valores[q->tamanho - 1];
     q->tamanho--;
+    bubbleDown(0,q->valores,q->tamanho);
     return 0;
 }
 ```
