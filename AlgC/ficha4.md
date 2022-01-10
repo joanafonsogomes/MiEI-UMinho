@@ -219,3 +219,37 @@ int BF (GrafoL g, int or, int v[], int p[], int l[]){
     return i;
 }
 ```
+
+
+##### (1) Calcula a distância (número de arestas) que separa o vértice v do que lhe está mais distante. A função deverá preencher o array p com os vértices correpondentes a esse caminho.
+No grafo apresentado acima, a invocação 'maisLonga (g, 0, p)' deve dar como resultado 3 (correspondendo, por exemplo, â distância entre 0 e 7).
+
+```c
+
+int maisLonga (GrafoLg, int or, int p[]){
+
+}
+
+```
+
+##### (2) Recebe como argumento um grafo não orientado g e calcula as componentes ligadas de g, i.e., preenche o array c de tal forma que, para quaisquer par de vértices x e y, c[x] == c[y] sse existe um caminho a ligar x a y.
+
+```c
+
+int componentes (GrafoL g, int c[]){
+
+}
+
+```
+
+##### (3) Preenche o array ord com uma ordenação topológica do grafo.
+Num grafo orientado e acíclico, uma ordenação topológica dos seus vértices é uma
+sequência dos vértices do grafo em que, se existe uma aresta a -> b então o vértice `a` aparece antes de `b` na sequência. Consequentemente, qualquer vértice aparece na sequÊncia depois de todos os seus alcançãveis.
+
+```c
+
+int ordTop (GrafoL g, int ord[]){
+
+}
+
+```
