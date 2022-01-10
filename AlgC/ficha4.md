@@ -222,7 +222,7 @@ int BF (GrafoL g, int or, int v[], int p[], int l[]){
 
 
 ##### (1) Calcula a distância (número de arestas) que separa o vértice v do que lhe está mais distante. A função deverá preencher o array p com os vértices correpondentes a esse caminho.
-No grafo apresentado acima, a invocação 'maisLonga (g, 0, p)' deve dar como resultado 3 (correspondendo, por exemplo, â distância entre 0 e 7).
+No grafo apresentado acima, a invocação `maisLonga (g, 0, p)` deve dar como resultado 3 (correspondendo, por exemplo, â distância entre 0 e 7).
 
 ```c
 
