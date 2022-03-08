@@ -61,6 +61,9 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
   > :pushpin: [Trabalhos de Grupo](https://github.com/joanafonsogomes/SRCR) \
   > :pushpin: [Trabalho Individual](https://github.com/joanafonsogomes/SRCR-individual)
 
+- **PL**: Processamento de Linguagens
+  > :pushpin: [TP2](https://github.com/joanafonsogomes/PL-TP2)
+
 <br/>
 
 ## **Mestrado**
@@ -106,4 +109,5 @@ Trabalhos, exercícios e resumos realizados no Mestrado Integrado em Engenharia 
  
 - **VR**: Virtualização de Redes 
 
+  > :pushpin: [TP1](https://github.com/joanafonsogomes/VR-TP1) \
   > :pushpin: [TP2](https://github.com/joanafonsogomes/VR-TP2)
